@@ -120,3 +120,8 @@ body {
 
   text-align: left;
 }
+
+.card-img-top {
+  height: 220px;
+  object-fit: cover;
+}
